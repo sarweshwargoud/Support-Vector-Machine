@@ -1,4 +1,4 @@
-# Task 7 – Support Vector Machine (SVM)
+# Support Vector Machine (SVM)
 
 ## Overview
 This project implements SVM for binary classification using the Breast Cancer dataset.  
